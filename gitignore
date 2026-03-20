@@ -1,0 +1,26 @@
+# Dataset
+data/
+
+# Model weights
+*.safetensors
+*.npy
+*.npz
+
+# Vocabulary
+vocab.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.iml
