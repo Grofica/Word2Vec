@@ -16,11 +16,7 @@ __pycache__/
 .env
 venv/
 .venv/
+pyproject
+uv.lock
 
-# Jupyter
-.ipynb_checkpoints/
 
-# IDE
-.idea/
-.vscode/
-*.iml
